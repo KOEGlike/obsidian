@@ -10,6 +10,7 @@ I built a modular handheld called Hackxpansion where you can swap the controls o
 
 `Power off → Swap module → Power on`
 
+
 ---
 
 ## Scene 2 — Games and Apps
