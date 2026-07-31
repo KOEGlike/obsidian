@@ -1,33 +1,92 @@
-## Sc 1
-[Console in grass,  modules changing]
-I made this modular handheld where you can swap out the controls instantly, and add extra functions any time
+## Scene 1 — Hook
 
-## Sc 2
-[Games played on the console, snake, nes]
-You can play premade games and apps, like snake or a NES emulator, or write your own
+**Visual:** Modules swapping quickly in console
 
-## Sc 3
-[Cadding the console in fusion, and kicad]                     
-First, I designed everything on my computer
+**Voice-over:**
 
-## Sc 4
-[Assembly]
-Then, I assembled everything
+I built a modular handheld called Hackxpansion where you can swap the controls or add completely new hardware by plugging in different modules.
 
-## Sc 5
-[Writing]
-And in the end I wrote some code
+**On-screen text:**
 
-## Sc 6
-[finished console]
-and bam, I was done
+`Power off → Swap module → Power on`
 
-## Sc 8
-[Cadding a module, qr code to rsvp form]
-You can even make your own modules, AND if you make 4 of them, you get one of these consoles for free, GO SIGN UP NOW
+---
 
-## Sc 9
-[Back bays, flipper zero img]
-Currently I'm working on two back module slots, so you could make a wifi, or speaker, or an IR module, like a flipper zero
+## Scene 2 — Games and Apps
 
+**Visual:** Rapid cuts between Snake, menus, different control modules, and NES gameplay.
 
+**Voice-over:**
+
+It can run premade games and apps, like Snake, and you can also write your own.
+
+I even tried porting a NES emulator.
+
+It runs at a glorious twelve frames per second.
+
+---
+
+## Scene 3 — Building the Console
+
+**Visual:** Fast montage of Fusion 360, KiCad, PCB assembly, soldering, and Rust code.
+
+**Voice-over:**
+
+I designed the enclosure, PCBs, electronics, and firmware from scratch.
+
+**On-screen text:**
+
+- RP2354B
+    
+- 2-inch 240×320 LCD
+    
+- Around 6 hours of battery life
+    
+- Firmware written in Rust
+    
+
+---
+
+## Scene 4 — Making Modules
+
+**Visual:** Show the 2×7 connector, a finished module PCB, perfboard, and Dupont wires connected directly to the console.
+
+**Voice-over:**
+
+The modules use a standard 2-by-7 header, so you do not even need to design a custom PCB.
+
+You can build one on perfboard, or plug Dupont wires directly into the console.
+
+**On-screen text:**
+
+`No custom PCB required`
+
+---
+
+## Scene 5 — Back Expansion
+
+**Visual:** Show the rear attachment CAD model, unfinished hardware, renders, and examples of possible larger modules.
+
+**Voice-over:**
+
+I am also working on an attachment that adds two more module slots to the back.
+
+These could be used for things like Wi-Fi, speakers, sensors, or an infrared controller—
+
+assuming the postal company eventually finds my parts.
+
+---
+
+## Scene 6 — Hack Club Program
+
+**Visual:** Show several module concepts, the finished console, Hack Club branding, and the RSVP QR code.
+
+**Voice-over:**
+
+And I am collaborating with Hack Club to give these consoles away.
+
+If you are between thirteen and eighteen, design four modules, and you can get funding to build them and receive a console for free.
+
+The program runs from August third through August thirty-first.
+
+Scan the QR code and RSVP now.
