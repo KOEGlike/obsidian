@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hackxpansion/Video Scripts/Video Script 2.md",
+                "file": "Hackxpansion/Video Scripts/Video Script 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video Script 2"
+              "title": "Video Script 1"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackxpansion/Video Scripts/Video Script 2.md",
+                "file": "Hackxpansion/Video Scripts/Video Script 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackxpansion/Video Scripts/Video Script 2.md",
+                "file": "Hackxpansion/Video Scripts/Video Script 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,8 +198,8 @@
   },
   "active": "66cdb285034b900c",
   "lastOpenFiles": [
-    "Hackxpansion/Video Scripts/Video Script 1.md",
     "Hackxpansion/Video Scripts/Video Script 2.md",
+    "Hackxpansion/Video Scripts/Video Script 1.md",
     "Untitled.md",
     "DDR3.md",
     "Meko/DDR3.md",

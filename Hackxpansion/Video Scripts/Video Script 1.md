@@ -1,4 +1,4 @@
-## Scene 1 — Hook
+## Scene 1 - Hook
 
 **Visual:** Modules swapping quickly in console
 
@@ -9,7 +9,7 @@ I built a modular handheld called Hackxpansion where you can swap the controls o
 
 ---
 
-## Scene 2 — Games and Apps
+## Scene 2 - Games and Apps
 
 **Visual:** Rapid cuts between Snake, menus, different control modules, and NES gameplay.
 
@@ -23,7 +23,7 @@ It runs at a glorious twelve frames per second.
 
 ---
 
-## Scene 3 — Building the Console
+## Scene 3 - Building the Console
 
 **Visual:** Fast montage of Fusion 360, KiCad, PCB assembly, soldering, and Rust code.
 
@@ -44,7 +44,7 @@ I designed the enclosure, PCBs, electronics, and firmware from scratch.
 
 ---
 
-## Scene 4 — Making Modules
+## Scene 4 - Making Modules
 
 **Visual:** Show the 2×7 connector, a finished module PCB, perfboard, and Dupont wires connected directly to the console.
 
@@ -60,7 +60,7 @@ You can build one on perfboard, or plug Dupont wires directly into the console.
 
 ---
 
-## Scene 5 — Back Expansion
+## Scene 5 - Back Expansion
 
 **Visual:** Show the rear attachment CAD model, unfinished hardware, renders, and examples of possible larger modules.
 
@@ -74,7 +74,7 @@ assuming the postal company eventually finds my parts.
 
 ---
 
-## Scene 6 — Hack Club Program
+## Scene 6 - Hack Club Program
 
 **Visual:** Show several module concepts, the finished console, Hack Club branding, and the RSVP QR code.
 

@@ -1,4 +1,4 @@
-## Scene 1 — Hook
+## Scene 1 - Hook
 
 **Visual:** Rapid shots of different modules being inserted into the console, followed by the finished handheld.
 
@@ -10,7 +10,7 @@ Here’s how.
 
 ---
 
-## Scene 2 — Funding
+## Scene 2 - Funding
 
 **Visual:** Fast montage of module concepts, Fusion 360, KiCad, components, soldering, and finished modules.
 
@@ -20,7 +20,7 @@ You’ll get funding for the parts you need to turn your module designs into rea
 
 ---
 
-## Scene 3 — Guides and Community
+## Scene 3 - Guides and Community
 
 **Visual:** Scroll through the documentation, example designs, community chats, and people helping with projects.
 
@@ -32,7 +32,7 @@ We have detailed guides and a helpful community that can guide you through desig
 
 ---
 
-## Scene 4 — Reward and Call to Action
+## Scene 4 - Reward and Call to Action
 
 **Visual:** Show four example modules beside the console, then transition to the RSVP QR code and program dates.
 
