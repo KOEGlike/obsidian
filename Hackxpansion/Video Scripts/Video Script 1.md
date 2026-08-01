@@ -6,10 +6,6 @@
 
 I built a modular handheld called Hackxpansion where you can swap the controls or add completely new hardware by plugging in different modules.
 
-**On-screen text:**
-
-`Power off → Swap module → Power on`
-
 
 ---
 
