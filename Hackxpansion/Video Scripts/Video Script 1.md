@@ -82,7 +82,7 @@ assuming the postal company eventually finds my parts.
 
 And I am collaborating with Hack Club to give these consoles away.
 
-If you are between thirteen and eighteen, design four modules, and you can get funding to build them and receive a console for free.
+If you are between thirteen and eighteen, design four modules, then you can get funding to build them and receive a console for free.
 
 The program runs from August third through August thirty-first.
 
