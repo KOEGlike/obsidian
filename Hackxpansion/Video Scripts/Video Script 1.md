@@ -52,7 +52,7 @@ I designed the enclosure, PCBs, electronics, and firmware from scratch.
 
 The modules use a standard 2-by-7 header, so you do not even need to design a custom PCB.
 
-You can build one on perfboard, or plug Dupont wires directly into the console.
+You can build one on a perfboard, or plug breadboard wires directly into the console.
 
 **On-screen text:**
 
