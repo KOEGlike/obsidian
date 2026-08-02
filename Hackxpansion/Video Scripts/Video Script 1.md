@@ -86,4 +86,4 @@ If you are between thirteen and eighteen, design four modules, then you can get 
 
 The program runs from August third through August thirty-first.
 
-Scan the QR code and RSVP now.
+Scan the QR code and SIGN UP now.
