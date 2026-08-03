@@ -4,8 +4,7 @@
 
 **Voice-over:**
 
-If you’re between thirteen and eighteen, you can get this modular handheld for free by designing four expansion modules.
-
+If you design 4 expansion modules for this console you'll get one for free
 Here’s how.
 
 ---
@@ -16,7 +15,7 @@ Here’s how.
 
 **Voice-over:**
 
-You’ll get funding for the parts you need to turn your module designs into real hardware.
+If you’re between thirteen and eighteen, you’ll get funding for the parts you need to turn your module designs into real hardware.
 
 ---
 
