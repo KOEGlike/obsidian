@@ -4,7 +4,7 @@
 
 **Voice-over:**
 
-If you design 4 expansion modules for this console you'll get one for free
+If you design 4 expansion modulesn you will get this console for free.
 Here’s how.
 
 ---
@@ -15,7 +15,7 @@ Here’s how.
 
 **Voice-over:**
 
-If you’re between thirteen and eighteen, you’ll get funding for the parts you need to turn your module designs into real hardware.
+If you’re between thirteen and eighteen, you’ll get funding for the parts you need to turn your module designs into reality.
 
 ---
 
@@ -37,7 +37,7 @@ We have detailed guides and a helpful community that can guide you through desig
 
 **Voice-over:**
 
-Design four modules, complete the program, and you’ll receive your own Hackxpansion console.
+Design four modules, complete the program, and you’ll receive your own Hackxpansion handheld.
 
 The program runs from August third through August thirty-first.
 
